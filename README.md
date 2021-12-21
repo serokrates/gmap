@@ -1,0 +1,2 @@
+By using bikes.py you can count the flow of bikes that are going through selected bike stations located in a city of your choosing. I've chosen Cracow because I had the data from the public bikes. Data is provided in limited amout just to check how all of it works. You can modify and use this python file freely.
+So in conclusion, you must have coordinates of the bike stations and data about where did a bike was set aside in a form of cooridnates.
