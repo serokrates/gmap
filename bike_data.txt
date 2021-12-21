@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="ExpertGPS 1.1 - http://www.topografix.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+  <trk>
+    <trkseg>
+      <trkpt lat="50.06317333333333" lon="19.933743333333332">
+        <time>2017-05-31T22:03:41Z</time>
+      </trkpt>
+      <trkpt lat="50.06317333333333" lon="19.933743333333332">
+        <time>2017-05-31T22:04:01Z</time>
+      </trkpt>
+      <trkpt lat="50.06323166666667" lon="19.933571666666666">
+        <time>2017-05-31T22:04:11Z</time>
+      </trkpt>
+      <trkpt lat="50.063253333333336" lon="19.933521666666667">
+        <time>2017-05-31T22:04:16Z</time>
+      </trkpt>
+      <trkpt lat="50.06327" lon="19.933478333333333">
+        <time>2017-05-31T22:04:26Z</time>
+      </trkpt>
+      <trkpt lat="50.06321333333333" lon="19.933578333333333">
+        <time>2017-05-31T22:04:31Z</time>
+      </trkpt>
+      <trkpt lat="50.06313333333333" lon="19.933685">
+        <time>2017-05-31T22:04:36Z</time>
+      </trkpt>
+      <trkpt lat="50.06304333333333" lon="19.93385">
+        <time>2017-05-31T22:04:41Z</time>
+      </trkpt>
+      <trkpt lat="50.06296833333333" lon="19.93403">
+        <time>2017-05-31T22:04:46Z</time>
+      </trkpt>
+      <trkpt lat="50.062893333333335" lon="19.934203333333333">
+        <time>2017-05-31T22:04:51Z</time>
+      </trkpt>
+      <trkpt lat="50.06281833333333" lon="19.93436833333333">
+        <time>2017-05-31T22:04:56Z</time>
+      </trkpt>
+      <trkpt lat="50.062668333333335" lon="19.934741666666667">
+        <time>2017-05-31T22:05:06Z</time>
+      </trkpt>
+      <trkpt lat="50.062585" lon="19.934933333333333">
+        <time>2017-05-31T22:05:11Z</time>
+      </trkpt>
+      <trkpt lat="50.0625" lon="19.935156666666668">
+        <time>2017-05-31T22:05:16Z</time>
+      </trkpt>
+      <trkpt lat="50.06242833333334" lon="19.93537">
+        <time>2017-05-31T22:05:21Z</time>
+      </trkpt>
+      <trkpt lat="50.06236333333333" lon="19.935598333333335">
+        <time>2017-05-31T22:05:26Z</time>
+      </trkpt>
+</trkseg>
+  </trk>
+</gpx>
+
+
